@@ -33,16 +33,27 @@ Sistem ini hadir sebagai solusi digital yang memungkinkan distributor melakukan 
 
 ## Tampilan Sistem
 
-| Halaman | Keterangan |
-|---|---|
-| Login & Register | Autentikasi dengan aktivasi akun |
-| Dashboard Customer | Katalog produk, cart, checkout |
-| Dashboard Admin | Monitoring pesanan & grafik |
-| Manajemen Produk | CRUD produk dengan filter status |
-| Invoice & Penjualan | Konfirmasi pembayaran & export PDF |
-| Data Distributor | Manajemen data mitra distributor |
-| Data Petugas | Penugasan petugas per transaksi |
+## Screenshots
 
+### Halaman Login & Registrasi
+![Login](Halaman%20Login.png)
+![Registrasi](Halaman%20Registrasi.png)
+
+### Dashboard Customer
+![Home Distributor](Halaman%20Home%20Distributor.png)
+![Order History](Halaman%20Order%20History.png)
+![Billing History](Halaman%20Billing%20History.png)
+![Invoice History](Halaman%20Invoice%20History.png)
+![Form Pengiriman](Halaman%20Form%20Pengiriman.png)
+![Detail Checkout](Halaman%20Detail%20Checkout.png)
+
+### Dashboard Admin
+![Dashboard Admin](Halaman%20Dashboard%20Admin.png)
+![Data Produk](Halaman%20Data%20Produk.png)
+![Data Invoice](Halaman%20Data%20Invoice.png)
+![Data Penjualan](Halaman%20Data%20Penjualan.png)
+![Data Petugas](Halaman%20Data%20Petugas.png)
+![Data Distributor](Halaman%20Data%20Distributor.png)
 ---
 
 ## Teknologi yang Digunakan
